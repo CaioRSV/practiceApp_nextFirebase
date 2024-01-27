@@ -175,7 +175,7 @@ export default function Home() {
           </ul>
         ) : // Caso contrário
         (
-          <p>shits rough</p>
+          <p>Carregando...</p>
         )
         }
 
